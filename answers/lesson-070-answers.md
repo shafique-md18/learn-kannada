@@ -27,7 +27,7 @@ Order wrong address ge hogide. Reschedule madi.
 
 ## Natural Bangalore Versions
 
-- `Order wrong address ge hogide.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
+- `Order wrong address ge hogide. Reschedule madi.` is a practical two-line delivery recovery pattern.
 
 ## Common Mistakes
 

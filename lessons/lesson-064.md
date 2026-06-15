@@ -17,7 +17,7 @@ Say in Kannada:
 | baralla | बरल्ला | नहीं आएगा | will not come | Meter alli baralla. |
 | extra beku | एक्स्ट्रा बेकु | एक्स्ट्रा चाहिए | extra needed | Extra beku. |
 | traffic ide | ट्रैफिक इदे | ट्रैफिक है | traffic is there | Traffic ide. |
-| door illa | डोर इल्ला | रास्ता नहीं | no route/opening | Door illa. |
+| route illa | रूट इल्ला | रास्ता नहीं है | no route | Route illa. |
 | illi beda | इल्लि बेडा | यहां नहीं | not here | Illi beda. |
 
 ## Main Pattern
@@ -44,11 +44,11 @@ English: Will not come.
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Driver reply chunks`. Keep the sentence short first, then add time/place/person words.
+This lesson teaches short driver reply chunks. Listen for these as whole replies, then answer with a short sentence.
 
 ## Reusable Pattern
 
-`Driver reply chunks`
+`Short transport reply`
 
 Examples:
 
@@ -90,6 +90,6 @@ Driver asks extra. Refuse politely and say meter only.
 
 Add:
 
-- Driver reply chunks = core pattern
+- Short transport reply = core pattern
 - Baralla.
 - Extra beku.

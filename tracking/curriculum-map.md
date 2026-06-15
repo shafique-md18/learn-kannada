@@ -377,22 +377,15 @@ Pronunciation rules for Hindi speakers, including Kannada sounds that do not map
 
 Short reusable dialogues for daily Bangalore situations.
 
-## Generation Strategy
+## Maintenance Strategy
 
-Generate lessons in batches of 12 lessons per module pair:
+The course is maintained directly through the lesson, answer, and tracking files.
 
-1. Lessons 001-012, answers, and tracking seed files.
-2. Lessons 013-024 and Checkpoint 01.
-3. Lessons 025-036 and Checkpoint 02.
-4. Lessons 037-048 and Checkpoint 03.
-5. Lessons 049-060 and Checkpoint 04.
-6. Lessons 061-072 and Checkpoints 05-06.
-
-After each batch, update:
+When revising lessons, update the matching answer files and any affected tracking files:
 
 - `daily-review.md`
 - `patterns.md`
 - `vocab.md`
 - `survival-dialogues.md`
 
-This keeps the course static but still organized for revision and future improvement.
+Keep the repository focused on static learning material unless additional tooling is explicitly requested.

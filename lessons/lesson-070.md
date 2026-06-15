@@ -48,11 +48,11 @@ English: Order went to wrong address.
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Delivery recovery`. Keep the sentence short first, then add time/place/person words.
+This lesson teaches delivery recovery lines. Use one short problem sentence, then one clear request.
 
 ## Reusable Pattern
 
-`Delivery recovery`
+`Problem sentence + request`
 
 Examples:
 
@@ -94,7 +94,7 @@ Explain delivery went to wrong address and ask to reschedule.
 
 Add:
 
-- Delivery recovery = core pattern
+- Problem sentence + request = core pattern
 - Order wrong address ge hogide.
 - Wrong address ge hogide.
 - Correct address kalisi.

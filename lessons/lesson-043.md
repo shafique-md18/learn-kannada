@@ -18,7 +18,7 @@ Say in Kannada:
 | bande | बन्दे | मैं आया | I came | Naan ninne bande. |
 | manege | मनेगे | घर को | to home | Manege hode. |
 | office ge | ऑफिस गे | ऑफिस को | to office | Office ge hode. |
-| apas bandide | वापस बन्दिदे | वापस आया है | came back/has returned | Parcel apas bandide. |
+| late aaytu | लेट आय्तु | देर हुई | got late | Ninne late aaytu. |
 
 ## Main Pattern
 

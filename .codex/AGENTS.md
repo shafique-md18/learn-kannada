@@ -161,7 +161,7 @@ Do not put full answers inside the lesson file.
 
 Keep tracking files concise and useful for review.
 
-- `daily-review.md`: 10-minute daily review material only.
+- `daily-review.md`: daily review material. Do not split this file or suggest splitting it unless the user explicitly asks.
 - `patterns.md`: reusable sentence patterns grouped by function.
 - `vocab.md`: vocabulary grouped by usefulness and situation.
 - `pronunciation.md`: pronunciation notes for Hindi speakers.
@@ -207,7 +207,7 @@ When asked to review the course, prioritize:
 - Missing Hindi pronunciation.
 - Kannada script accidentally appearing.
 - Repetitive or weak exercises.
-- Tracking files becoming too bloated for daily review.
+- Stale or inaccurate tracking material.
 - Stale references to removed folders or workflows.
 
 Before committing course-wide changes:

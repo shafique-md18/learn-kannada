@@ -27,7 +27,7 @@ Extra beda. Meter alli barthira?
 
 ## Natural Bangalore Versions
 
-- `Baralla.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
+- Short transport replies like `Baralla.` and `Extra beku.` are common in auto conversations.
 
 ## Common Mistakes
 

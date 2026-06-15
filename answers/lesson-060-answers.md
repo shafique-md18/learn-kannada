@@ -5,14 +5,14 @@
 1. Bangalore hege ide?
 2. Weather chennagide.
 3. Area safe ide.
-4. Bangalore expensive.
+4. Bangalore expensive ide.
 
 ## Production Practice Sample Answers
 
 1. Bangalore hege ide?
 2. Weather chennagide.
 3. Area safe ide.
-4. Bangalore expensive.
+4. Bangalore expensive ide.
 
 ## Roleplay Sample
 
@@ -23,7 +23,7 @@ Bangalore hege ide? Weather chennagide.
 1. Bangalore hege ide?
 2. Weather chennagide.
 3. Area safe ide.
-4. Bangalore expensive.
+4. Bangalore expensive ide.
 
 ## Natural Bangalore Versions
 

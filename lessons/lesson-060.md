@@ -18,7 +18,7 @@ Say in Kannada:
 | weather | वेदर | मौसम | weather | Weather chennagide. |
 | area | एरिया | इलाका | area | Area chennagide. |
 | safe | सेफ | सुरक्षित | safe | Area safe ide. |
-| expensive | एक्सपेंसिव | महंगा | expensive | Bangalore expensive. |
+| expensive | एक्सपेंसिव | महंगा | expensive | Bangalore expensive ide. |
 
 ## Main Pattern
 
@@ -57,7 +57,7 @@ Examples:
 - Bangalore hege ide?
 - Weather chennagide.
 - Area safe ide.
-- Bangalore expensive.
+- Bangalore expensive ide.
 
 ## Guided Practice
 
