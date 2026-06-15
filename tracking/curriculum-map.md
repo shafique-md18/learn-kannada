@@ -60,11 +60,6 @@ tracking/
   vocab.md
   pronunciation.md
   survival-dialogues.md
-
-checkpoints/
-  checkpoint-01-lessons-001-to-012.md
-  checkpoint-02-lessons-013-to-024.md
-  ...
 ```
 
 ## Lesson Format
@@ -353,28 +348,6 @@ Main situations:
 - Delivery confusion
 - Restaurant order
 - Social chat with neighbour or colleague
-
-## Checkpoint Plan
-
-Checkpoints are static practice packs for another assistant or self-practice.
-
-Recommended checkpoints:
-
-- Checkpoint 01: after Lesson 012
-- Checkpoint 02: after Lesson 024
-- Checkpoint 03: after Lesson 036
-- Checkpoint 04: after Lesson 048
-- Checkpoint 05: after Lesson 060
-- Checkpoint 06: after Lesson 072
-
-Each checkpoint should include:
-
-- Pattern recall
-- Situation response
-- Roleplay prompts
-- Listening-style prediction prompts
-- Mixed old/new sentence building
-- No answer key inside the prompt file
 
 ## Tracking Files
 
