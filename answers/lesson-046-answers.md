@@ -11,8 +11,8 @@
 
 1. En aaytu?
 2. Yake late?
-3. En aaytu?
-4. Sari.
+3. Call miss aaytu.
+4. Booking cancel aaytu.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Yake late? En aaytu?
 
 ## Quiz Answers
 
-1. What happened?
+1. En aaytu?
 2. Yake late?
-3. En aaytu?
-4. Sari.
+3. Call miss aaytu.
+4. Booking cancel aaytu.
 
 ## Natural Bangalore Versions
 

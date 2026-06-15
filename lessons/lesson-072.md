@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Menu kodi.
+2. Veg ideya?
+3. Less spicy madi.
 
 ## New Words
 
@@ -46,11 +46,11 @@ English: I need to practice Kannada.
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Social closing`. Keep the sentence short first, then add time/place/person words.
+This lesson extends the reusable pattern `___ madbeku / ___ alli matadona`. Keep the sentence short first, then add time/place/person words.
 
 ## Reusable Pattern
 
-`Social closing`
+`___ madbeku / ___ alli matadona`
 
 Examples:
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Need to practice Kannada.
+2. Change the place/person/item and say: Let us speak in Kannada.
+3. Use as the next line in a short conversation: Let us become friends.
+4. Combine old knowledge with today: I am learning slowly.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Tell a new friend you want to practice Kannada and speak slowly.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Need to practice Kannada.
+2. Say: Let us speak in Kannada.
+3. Say: Let us become friends.
+4. Say: I am learning slowly.
 
 ## Add These To Your Notes
 
 Add:
 
-- Social closing = core pattern
-- Kannada practice madbeku.
+- ___ madbeku / ___ alli matadona = core pattern
 - Kannada practice madbeku.
 - Kannada alli matadona.

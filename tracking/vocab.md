@@ -184,4 +184,4 @@ Every Kannada word should include:
 
 ## Lessons 025-072 Must Review Words
 
-nanna, nimma, hesaru, ooru, kelasa, oota, tindi, aayta, clean madi, check madi, fix madi, irthini, ivattu, naale, ninne, yaavaga, daily, aagide, agalla, current, internet, technician, tagondu banni, parcel, complaint, hogidde, kondide, nodide, en aaytu, adakke, ishta, chennagide, kashta, artha agilla, nimge, hege, ellinda, barutte, hogona, gotha, gothilla, innondu sala, kelistilla.
+nanna, nimma, hesaru, ooru, kelasa, oota, tindi, aayta, clean madi, check madi, fix madi, irthini, ivattu, naale, ninne, yaavaga, daily, aagide, agalla, current, internet, technician, tagondu banni, parcel, complaint, hode, bande, konde, togonde, kotte, nodide, en aaytu, adakke, ishta, chennagide, kashta, artha agilla, nimge, hege, ellinda, barutte, hogona, gotha, gothilla, innondu sala, kelistilla.

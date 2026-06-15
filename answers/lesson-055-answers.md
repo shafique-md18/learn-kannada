@@ -11,8 +11,8 @@
 
 1. Neevu ellinda?
 2. Naan Delhi inda.
-3. Neevu ellinda?
-4. Sari.
+3. Bangalore alli irthini.
+4. Eshtu varsha?
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Naan Delhi inda. Bangalore alli irthini.
 
 ## Quiz Answers
 
-1. Where are you from?
+1. Neevu ellinda?
 2. Naan Delhi inda.
-3. Neevu ellinda?
-4. Sari.
+3. Bangalore alli irthini.
+4. Eshtu varsha?
 
 ## Natural Bangalore Versions
 

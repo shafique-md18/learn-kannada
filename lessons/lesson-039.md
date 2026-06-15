@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Current illa.
+2. Water supply illa.
+3. Internet work agalla.
 
 ## New Words
 
@@ -71,10 +71,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Send technician.
+2. Change the place/person/item and say: Need plumber.
+3. Use as the next line in a short conversation: Send electrician.
+4. Combine old knowledge with today: Is there a slot?
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,16 +82,15 @@ Ask for electrician and ask when they will come.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Send technician.
+2. Say: Need plumber.
+3. Say: Send electrician.
+4. Say: Is there a slot?
 
 ## Add These To Your Notes
 
 Add:
 
 - Person + kalisi = core pattern
-- Technician kalisi.
 - Technician kalisi.
 - Plumber beku.

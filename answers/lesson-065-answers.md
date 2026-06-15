@@ -11,8 +11,8 @@
 
 1. Swalpa time beku.
 2. Ivaga busy.
-3. Swalpa time beku.
-4. Sari.
+3. Aamele barthini.
+4. Nodthini.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Sari. Yaava time barthira?
 
 ## Quiz Answers
 
-1. Need some time.
+1. Swalpa time beku.
 2. Ivaga busy.
-3. Swalpa time beku.
-4. Sari.
+3. Aamele barthini.
+4. Nodthini.
 
 ## Natural Bangalore Versions
 

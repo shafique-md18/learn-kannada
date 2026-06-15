@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Swalpa time beku.
+2. Ivaga busy.
+3. Aamele barthini.
 
 ## New Words
 
@@ -71,10 +71,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Wait one minute.
+2. Change the place/person/item and say: Cab is coming.
+3. Use as the next line in a short conversation: Need to pay.
+4. Combine old knowledge with today: Okay okay.
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,10 +82,10 @@ Ask someone to wait one minute because payment is needed.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Wait one minute.
+2. Say: Cab is coming.
+3. Say: Need to pay.
+4. Say: Okay okay.
 
 ## Add These To Your Notes
 

@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Naan illi irthini.
+2. Naan apartment alli irthini.
+3. Naan same floor alli.
 
 ## New Words
 
@@ -16,9 +16,9 @@ Say in Kannada:
 |---|---|---|---|---|
 | ivattu | इवत्तु | आज | today | Ivattu barthini. |
 | naale | नाले | कल | tomorrow | Naale barthini. |
-| ninne | निन्ने | कल बीता | yesterday | Ninne bandide. |
+| ninne | निन्ने | कल बीता | yesterday | Ninne payment aayta? |
 | beligge | बेळिग्गे | सुबह | morning | Beligge barthini. |
-| san je | संजे | शाम | evening | Sanje barthini. |
+| sanje | संजे | शाम | evening | Sanje barthini. |
 
 ## Main Pattern
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Today I need to go to office.
+2. Change the place/person/item and say: I will come tomorrow.
+3. Use as the next line in a short conversation: Payment happened yesterday?
+4. Combine old knowledge with today: Meet in evening.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Tell security you will come tomorrow morning.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Today I need to go to office.
+2. Say: I will come tomorrow.
+3. Say: Payment happened yesterday?
+4. Say: Meet in evening.
 
 ## Add These To Your Notes
 
 Add:
 
 - Time + sentence = core pattern
-- Ivattu office hogbeku.
 - Ivattu office hogbeku.
 - Naale barthini.

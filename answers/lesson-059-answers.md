@@ -11,8 +11,8 @@
 
 1. Coffee ge barthira?
 2. Coffee ge hogona.
-3. Coffee ge barthira?
-4. Sari.
+3. Sanje free ideya?
+4. Together hogona.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Sanje free ideya? Tea ge hogona?
 
 ## Quiz Answers
 
-1. Will you come for coffee?
+1. Coffee ge barthira?
 2. Coffee ge hogona.
-3. Coffee ge barthira?
-4. Sari.
+3. Sanje free ideya?
+4. Together hogona.
 
 ## Natural Bangalore Versions
 

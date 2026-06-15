@@ -11,8 +11,8 @@
 
 1. Gotha.
 2. Gothilla.
-3. Gotha.
-4. Sari.
+3. Beda bidi.
+4. Aaytu.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Gotha. Aaytu. Beda bidi.
 
 ## Quiz Answers
 
-1. I know.
+1. Gotha.
 2. Gothilla.
-3. Gotha.
-4. Sari.
+3. Beda bidi.
+4. Aaytu.
 
 ## Natural Bangalore Versions
 

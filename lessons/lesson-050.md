@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Nanage coffee ishta.
+2. Nanage tea ishta illa.
+3. Tumba ishta.
 
 ## New Words
 
@@ -71,10 +71,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Coffee is good.
+2. Change the place/person/item and say: This is not good.
+3. Use as the next line in a short conversation: Taste is good.
+4. Combine old knowledge with today: Too spicy.
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,16 +82,15 @@ At a restaurant, say the food is good but too spicy.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Coffee is good.
+2. Say: This is not good.
+3. Say: Taste is good.
+4. Say: Too spicy.
 
 ## Add These To Your Notes
 
 Add:
 
 - ___ chennagide = core pattern
-- Coffee chennagide.
 - Coffee chennagide.
 - Idu chennagilla.

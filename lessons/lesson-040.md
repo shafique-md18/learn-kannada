@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Technician kalisi.
+2. Plumber beku.
+3. Electrician kalisi.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Bring key.
+2. Change the place/person/item and say: Send photo.
+3. Use as the next line in a short conversation: Tell problem.
+4. Combine old knowledge with today: Bring bill.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Ask security to bring the key and call after reaching.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Bring key.
+2. Say: Send photo.
+3. Say: Tell problem.
+4. Say: Bring bill.
 
 ## Add These To Your Notes
 
 Add:
 
 - ___ tagondu banni = core pattern
-- Key tagondu banni.
 - Key tagondu banni.
 - Photo kalisi.

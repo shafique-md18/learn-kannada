@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Neevu ellinda?
+2. Naan Delhi inda.
+3. Bangalore alli irthini.
 
 ## New Words
 
@@ -73,10 +73,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Is your family here?
+2. Change the place/person/item and say: Parents are in Delhi.
+3. Use as the next line in a short conversation: Kids are at school.
+4. Combine old knowledge with today: Family is in Bangalore.
 
 ## Real-Life Bangalore Roleplay
 
@@ -84,16 +84,15 @@ Ask a colleague if their family is in Bangalore.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Is your family here?
+2. Say: Parents are in Delhi.
+3. Say: Kids are at school.
+4. Say: Family is in Bangalore.
 
 ## Add These To Your Notes
 
 Add:
 
 - Nimma family ___? = core pattern
-- Nimma family illi ideya?
 - Nimma family illi ideya?
 - Parents Delhi alli.

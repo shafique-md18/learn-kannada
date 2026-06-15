@@ -11,8 +11,8 @@
 
 1. Naan call madide.
 2. Naan message madide.
-3. Naan call madide.
-4. Sari.
+3. Naan helide.
+4. Reply illa.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Naan call madide. Reply illa.
 
 ## Quiz Answers
 
-1. I saw him/her.
+1. Naan call madide.
 2. Naan message madide.
-3. Naan call madide.
-4. Sari.
+3. Naan helide.
+4. Reply illa.
 
 ## Natural Bangalore Versions
 

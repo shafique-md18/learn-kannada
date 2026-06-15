@@ -11,8 +11,8 @@
 
 1. Kannada practice madbeku.
 2. Kannada alli matadona.
-3. Kannada practice madbeku.
-4. Sari.
+3. Friend aagona.
+4. Slowly slowly kalithini.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Kannada practice madbeku. Kannada alli matadona. Slow aagi heli.
 
 ## Quiz Answers
 
-1. I need to practice Kannada.
+1. Kannada practice madbeku.
 2. Kannada alli matadona.
-3. Kannada practice madbeku.
-4. Sari.
+3. Friend aagona.
+4. Slowly slowly kalithini.
 
 ## Natural Bangalore Versions
 

@@ -2,32 +2,32 @@
 
 ## Guided Practice Answers
 
-1. Ninne marketge hogidde.
-2. Alli medicine kondide.
-3. Amele manege bandide.
-4. Friend jothe hogidde.
+1. Ninne market ge hode.
+2. Alli medicine konde.
+3. Amele manege bande.
+4. Friend jothe hode.
 
 ## Production Practice Sample Answers
 
-1. Ninne marketge hogidde.
-2. Alli medicine kondide.
-3. Ninne marketge hogidde.
-4. Sari.
+1. Ninne market ge hode.
+2. Alli medicine konde.
+3. Amele manege bande.
+4. Friend jothe hode.
 
 ## Roleplay Sample
 
-Ninne marketge hogidde. Alli medicine kondide. Amele manege bandide.
+Ninne market ge hode. Alli medicine konde. Amele manege bande.
 
 ## Quiz Answers
 
-1. Yesterday I went to market.
-2. Alli medicine kondide.
-3. Ninne marketge hogidde.
-4. Sari.
+1. Ninne market ge hode.
+2. Alli medicine konde.
+3. Amele manege bande.
+4. Friend jothe hode.
 
 ## Natural Bangalore Versions
 
-- `Ninne marketge hogidde.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
+- `Ninne market ge hode.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
 
 ## Common Mistakes
 

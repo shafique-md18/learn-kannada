@@ -11,8 +11,8 @@
 
 1. Bangalore hege ide?
 2. Weather chennagide.
-3. Bangalore hege ide?
-4. Sari.
+3. Area safe ide.
+4. Bangalore expensive.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Bangalore hege ide? Weather chennagide.
 
 ## Quiz Answers
 
-1. How is Bangalore?
+1. Bangalore hege ide?
 2. Weather chennagide.
-3. Bangalore hege ide?
-4. Sari.
+3. Area safe ide.
+4. Bangalore expensive.
 
 ## Natural Bangalore Versions
 

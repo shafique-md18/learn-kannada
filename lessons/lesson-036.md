@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Payment aagide.
+2. Work mugitu.
+3. Innuu illa.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I will come tomorrow morning.
+2. Change the place/person/item and say: Meet in evening.
+3. Use as the next line in a short conversation: Confirm time.
+4. Combine old knowledge with today: Cancel booking.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Make a plan with a colleague for tomorrow evening.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I will come tomorrow morning.
+2. Say: Meet in evening.
+3. Say: Confirm time.
+4. Say: Cancel booking.
 
 ## Add These To Your Notes
 
 Add:
 
 - Time + action = core pattern
-- Naale beligge barthini.
 - Naale beligge barthini.
 - Sanje meet madi.

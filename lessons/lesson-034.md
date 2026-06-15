@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Yaavaga barthira?
+2. Iga banni.
+3. Amele madthini.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I go to office daily.
+2. Change the place/person/item and say: Sometimes I go by metro.
+3. Use as the next line in a short conversation: Usually cab not wanted.
+4. Combine old knowledge with today: Weekend at home.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Tell a neighbour your daily routine in two lines.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I go to office daily.
+2. Say: Sometimes I go by metro.
+3. Say: Usually cab not wanted.
+4. Say: Weekend at home.
 
 ## Add These To Your Notes
 
 Add:
 
 - Frequency + action = core pattern
-- Daily office hogthini.
 - Daily office hogthini.
 - Sometimes metro hogthini.

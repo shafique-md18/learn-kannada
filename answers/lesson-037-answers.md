@@ -11,8 +11,8 @@
 
 1. Fan work agalla.
 2. Door open agalla.
-3. Fan work agalla.
-4. Sari.
+3. Door close agalla.
+4. Problem ide.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Fan work agalla. Problem ide. Urgent check madi.
 
 ## Quiz Answers
 
-1. The fan is not working.
+1. Fan work agalla.
 2. Door open agalla.
-3. Fan work agalla.
-4. Sari.
+3. Door close agalla.
+4. Problem ide.
 
 ## Natural Bangalore Versions
 

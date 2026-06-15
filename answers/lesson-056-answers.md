@@ -11,8 +11,8 @@
 
 1. Nimma family illi ideya?
 2. Parents Delhi alli.
-3. Nimma family illi ideya?
-4. Sari.
+3. Kids school alli.
+4. Family Bangalore alli.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Nimma family Bangalore alli ideya?
 
 ## Quiz Answers
 
-1. Is your family here?
+1. Nimma family illi ideya?
 2. Parents Delhi alli.
-3. Nimma family illi ideya?
-4. Sari.
+3. Kids school alli.
+4. Family Bangalore alli.
 
 ## Natural Bangalore Versions
 

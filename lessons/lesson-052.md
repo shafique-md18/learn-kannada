@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Idu sulabha.
+2. Kannada swalpa kashta.
+3. Artha aaytu.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Do you like coffee?
+2. Change the place/person/item and say: Which one do you like?
+3. Use as the next line in a short conversation: Which one do you want?
+4. Combine old knowledge with today: This is better.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,10 +83,10 @@ Ask a friend which food they like.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Do you like coffee?
+2. Say: Which one do you like?
+3. Say: Which one do you want?
+4. Say: This is better.
 
 ## Add These To Your Notes
 
@@ -95,4 +95,3 @@ Add:
 - Nimge ___ ishta? = core pattern
 - Nimge yaavdu ishta?
 - Nimge coffee ishta?
-- Nimge yaavdu ishta?

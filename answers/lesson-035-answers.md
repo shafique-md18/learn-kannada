@@ -11,8 +11,8 @@
 
 1. Payment aagide.
 2. Work mugitu.
-3. Payment aagide.
-4. Sari.
+3. Innuu illa.
+4. Work finish aagilla.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Haudu, payment aagide.
 
 ## Quiz Answers
 
-1. Payment is done.
+1. Payment aagide.
 2. Work mugitu.
-3. Payment aagide.
-4. Sari.
+3. Innuu illa.
+4. Work finish aagilla.
 
 ## Natural Bangalore Versions
 

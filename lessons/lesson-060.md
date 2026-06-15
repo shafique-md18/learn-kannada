@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Coffee ge barthira?
+2. Coffee ge hogona.
+3. Sanje free ideya?
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: How is Bangalore?
+2. Change the place/person/item and say: Weather is good.
+3. Use as the next line in a short conversation: Area is safe.
+4. Combine old knowledge with today: Bangalore is expensive.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Have small talk with a neighbour about Bangalore and weather.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: How is Bangalore?
+2. Say: Weather is good.
+3. Say: Area is safe.
+4. Say: Bangalore is expensive.
 
 ## Add These To Your Notes
 
 Add:
 
 - ___ hege ide? = core pattern
-- Bangalore hege ide?
 - Bangalore hege ide?
 - Weather chennagide.

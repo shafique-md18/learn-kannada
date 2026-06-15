@@ -11,8 +11,8 @@
 
 1. Baralla.
 2. Extra beku.
-3. Baralla.
-4. Sari.
+3. Traffic ide.
+4. Illi beda.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Extra beda. Meter alli barthira?
 
 ## Quiz Answers
 
-1. Will not come.
+1. Baralla.
 2. Extra beku.
-3. Baralla.
-4. Sari.
+3. Traffic ide.
+4. Illi beda.
 
 ## Natural Bangalore Versions
 

@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Kannada swalpa barutte.
+2. Hindi barutte.
+3. English barutte.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: What do you do on weekend?
+2. Change the place/person/item and say: I watch movie.
+3. Use as the next line in a short conversation: I go for walk.
+4. Combine old knowledge with today: I rest.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Ask a friend their weekend plan and say you will rest.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: What do you do on weekend?
+2. Say: I watch movie.
+3. Say: I go for walk.
+4. Say: I rest.
 
 ## Add These To Your Notes
 
 Add:
 
 - Weekend ___ madthira? = core pattern
-- Weekend en madthira?
 - Weekend en madthira?
 - Movie nodthini.

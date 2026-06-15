@@ -11,8 +11,8 @@
 
 1. Kannada swalpa barutte.
 2. Hindi barutte.
-3. Kannada swalpa barutte.
-4. Sari.
+3. English barutte.
+4. Kannada kalithidini.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Kannada kalithidini. Slow aagi heli.
 
 ## Quiz Answers
 
-1. I know a little Kannada.
+1. Kannada swalpa barutte.
 2. Hindi barutte.
-3. Kannada swalpa barutte.
-4. Sari.
+3. English barutte.
+4. Kannada kalithidini.
 
 ## Natural Bangalore Versions
 

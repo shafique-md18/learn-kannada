@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Naan office ge hode.
+2. Naan manege hode.
+3. Ninne bande.
 
 ## New Words
 
@@ -14,21 +14,21 @@ Say in Kannada:
 
 | Kannada | Hindi Pronunciation | Hindi Meaning | English Meaning | Bangalore Usage |
 |---|---|---|---|---|
-| kondide | कोंडिदे | खरीदा | bought | Idannu kondide. |
-| togonde | तगोंडे | ले लिया | took | Idannu togonde. |
-| kotide | कोटिदे | दिया | gave | Bill kotide. |
-| market | मार्केट | बाज़ार | market | Market alli kondide. |
-| medicine | मेडिसिन | दवा | medicine | Medicine kondide. |
+| konde | कोंडे | मैंने खरीदा | I bought | Idannu konde. |
+| togonde | तगोंडे | मैंने ले लिया | I took | Idannu togonde. |
+| kotte | कोट्टे | मैंने दिया | I gave | Bill kotte. |
+| market | मार्केट | बाज़ार | market | Market alli konde. |
+| medicine | मेडिसिन | दवा | medicine | Medicine konde. |
 
 ## Main Pattern
 
 ### Kannada Sentence
 
-Idannu kondide.
+Idannu konde.
 
 ### Hindi Pronunciation
 
-इदन्नु कोंडिदे.
+इदन्नु कोंडे.
 
 ### Meaning
 
@@ -41,40 +41,40 @@ English: I bought this.
 | Word | Hindi Meaning | English Meaning |
 |---|---|---|
 | Idannu | इसे | this object |
-| kondide | खरीदा | bought |
+| konde | मैंने खरीदा | I bought |
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Object + past action`. Keep the sentence short first, then add time/place/person words.
+This lesson extends the reusable pattern `Object + konde/togonde/kotte`. Keep the sentence short first, then add time/place/person words.
 
 ## Reusable Pattern
 
-`Object + past action`
+`Object + konde/togonde/kotte`
 
 Examples:
 
-- Idannu kondide.
+- Idannu konde.
 - Idannu togonde.
-- Bill kotide.
-- Medicine kondide.
+- Bill kotte.
+- Medicine konde.
 
 ## Guided Practice
 
 Build these in Kannada:
 
-1. Bought this.
-2. Took this.
-3. Gave bill.
-4. Bought medicine.
+1. I bought this.
+2. I took this.
+3. I gave bill.
+4. I bought medicine.
 
 ## Production Practice
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I bought this.
+2. Change the place/person/item and say: I took this.
+3. Use as the next line in a short conversation: I gave bill.
+4. Combine old knowledge with today: I bought medicine.
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,16 +82,15 @@ Tell someone you bought medicine from market.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I bought this.
+2. Say: I took this.
+3. Say: I gave bill.
+4. Say: I bought medicine.
 
 ## Add These To Your Notes
 
 Add:
 
-- Object + past action = core pattern
-- Idannu kondide.
-- Idannu kondide.
+- Object + konde/togonde/kotte = core pattern
+- Idannu konde.
 - Idannu togonde.

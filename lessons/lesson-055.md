@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Nanage idu chennagide anisutte.
+2. Idu correct.
+3. Idu wrong.
 
 ## New Words
 
@@ -71,10 +71,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Where are you from?
+2. Change the place/person/item and say: I am from Delhi.
+3. Use as the next line in a short conversation: I live in Bangalore.
+4. Combine old knowledge with today: How many years?
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,16 +82,15 @@ Tell a neighbour you are from Delhi and live in Bangalore.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Where are you from?
+2. Say: I am from Delhi.
+3. Say: I live in Bangalore.
+4. Say: How many years?
 
 ## Add These To Your Notes
 
 Add:
 
 - Neevu ellinda? = core pattern
-- Neevu ellinda?
 - Neevu ellinda?
 - Naan Delhi inda.

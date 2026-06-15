@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Swalpa help madi.
+2. Complaint madbeku.
+3. Manager yaaru?
 
 ## New Words
 
@@ -14,25 +14,25 @@ Say in Kannada:
 
 | Kannada | Hindi Pronunciation | Hindi Meaning | English Meaning | Bangalore Usage |
 |---|---|---|---|---|
-| hogidde | होगिद्दे | गया था | went | Naan office hogidde. |
-| bandide | बन्दिदे | आया है | has come | Parcel bandide. |
-| bandidde | बन्दिद्दे | आया था | came | Naan ninne bandide/bandidde. |
-| manege | मनेगे | घर को | to home | Manege hogidde. |
-| officege | ऑफिसगे | ऑफिस को | to office | Officege hogidde. |
+| hode | होदे | मैं गया | I went | Naan office ge hode. |
+| bande | बन्दे | मैं आया | I came | Naan ninne bande. |
+| manege | मनेगे | घर को | to home | Manege hode. |
+| office ge | ऑफिस गे | ऑफिस को | to office | Office ge hode. |
+| apas bandide | वापस बन्दिदे | वापस आया है | came back/has returned | Parcel apas bandide. |
 
 ## Main Pattern
 
 ### Kannada Sentence
 
-Naan office hogidde.
+Naan office ge hode.
 
 ### Hindi Pronunciation
 
-नान् ऑफिस होगिद्दे.
+नान् ऑफिस गे होदे.
 
 ### Meaning
 
-Hindi: मैं ऑफिस गया था.
+Hindi: मैं ऑफिस गया.
 
 English: I went to office.
 
@@ -42,21 +42,22 @@ English: I went to office.
 |---|---|---|
 | Naan | मैं | I |
 | office | ऑफिस | office |
-| hogidde | गया था | went |
+| ge | को/के लिए | to/for |
+| hode | मैं गया | I went |
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Naan ___ hogidde`. Keep the sentence short first, then add time/place/person words.
+This lesson extends the reusable pattern `Naan ___ ge hode / Naan ___ bande`. Keep the sentence short first, then add time/place/person words.
 
 ## Reusable Pattern
 
-`Naan ___ hogidde`
+`Naan ___ ge hode / Naan ___ bande`
 
 Examples:
 
-- Naan officege hogidde.
-- Naan manege hogidde.
-- Ninne bandide.
+- Naan office ge hode.
+- Naan manege hode.
+- Ninne bande.
 - Naale barthini.
 
 ## Guided Practice
@@ -65,17 +66,17 @@ Build these in Kannada:
 
 1. I went to office.
 2. I went home.
-3. Came yesterday.
-4. Will come tomorrow.
+3. I came yesterday.
+4. I will come tomorrow.
 
 ## Production Practice
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I went to office.
+2. Change the place/person/item and say: I went home.
+3. Use as the next line in a short conversation: I came yesterday.
+4. Combine old knowledge with today: I will come tomorrow.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +84,15 @@ Tell a colleague you went home yesterday.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I went to office.
+2. Say: I went home.
+3. Say: I came yesterday.
+4. Say: I will come tomorrow.
 
 ## Add These To Your Notes
 
 Add:
 
-- Naan ___ hogidde = core pattern
-- Naan office hogidde.
-- Naan officege hogidde.
-- Naan manege hogidde.
+- Naan ___ ge hode / Naan ___ bande = core pattern
+- Naan office ge hode.
+- Naan manege hode.

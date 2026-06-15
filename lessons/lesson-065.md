@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Baralla.
+2. Extra beku.
+3. Traffic ide.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Need some time.
+2. Change the place/person/item and say: Busy now.
+3. Use as the next line in a short conversation: Will come later.
+4. Combine old knowledge with today: I will check.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Maintenance says he will come later. Ask what time.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Need some time.
+2. Say: Busy now.
+3. Say: Will come later.
+4. Say: I will check.
 
 ## Add These To Your Notes
 
 Add:
 
 - Staff reply chunks = core pattern
-- Swalpa time beku.
 - Swalpa time beku.
 - Ivaga busy.

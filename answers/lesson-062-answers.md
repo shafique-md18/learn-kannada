@@ -11,8 +11,8 @@
 
 1. Innondu sala heli.
 2. Repeat madi.
-3. Innondu sala heli.
-4. Sari.
+3. Clear aagi heli.
+4. Kelistilla.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Kelistilla. Innondu sala clear aagi heli.
 
 ## Quiz Answers
 
-1. Please say one more time.
+1. Innondu sala heli.
 2. Repeat madi.
-3. Innondu sala heli.
-4. Sari.
+3. Clear aagi heli.
+4. Kelistilla.
 
 ## Natural Bangalore Versions
 

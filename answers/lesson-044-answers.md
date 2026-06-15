@@ -2,32 +2,32 @@
 
 ## Guided Practice Answers
 
-1. Idannu kondide.
+1. Idannu konde.
 2. Idannu togonde.
-3. Bill kotide.
-4. Medicine kondide.
+3. Bill kotte.
+4. Medicine konde.
 
 ## Production Practice Sample Answers
 
-1. Idannu kondide.
+1. Idannu konde.
 2. Idannu togonde.
-3. Idannu kondide.
-4. Sari.
+3. Bill kotte.
+4. Medicine konde.
 
 ## Roleplay Sample
 
-Market alli medicine kondide.
+Market alli medicine konde.
 
 ## Quiz Answers
 
-1. I bought this.
+1. Idannu konde.
 2. Idannu togonde.
-3. Idannu kondide.
-4. Sari.
+3. Bill kotte.
+4. Medicine konde.
 
 ## Natural Bangalore Versions
 
-- `Idannu kondide.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
+- `Idannu konde.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
 
 ## Common Mistakes
 

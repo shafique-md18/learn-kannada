@@ -11,8 +11,8 @@
 
 1. Ondu nimisha kaayiri.
 2. Cab bartha ide.
-3. Ondu nimisha kaayiri.
-4. Sari.
+3. Payment madbeku.
+4. Sari sari.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Ondu nimisha kaayiri. Payment madbeku.
 
 ## Quiz Answers
 
-1. One minute.
+1. Ondu nimisha kaayiri.
 2. Cab bartha ide.
-3. Ondu nimisha kaayiri.
-4. Sari.
+3. Payment madbeku.
+4. Sari sari.
 
 ## Natural Bangalore Versions
 

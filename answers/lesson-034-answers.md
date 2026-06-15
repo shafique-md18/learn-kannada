@@ -11,8 +11,8 @@
 
 1. Daily office hogthini.
 2. Sometimes metro hogthini.
-3. Daily office hogthini.
-4. Sari.
+3. Usually cab beda.
+4. Weekend mane alli.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Daily office hogthini. Weekend mane alli irthini.
 
 ## Quiz Answers
 
-1. I go to office daily.
+1. Daily office hogthini.
 2. Sometimes metro hogthini.
-3. Daily office hogthini.
-4. Sari.
+3. Usually cab beda.
+4. Weekend mane alli.
 
 ## Natural Bangalore Versions
 

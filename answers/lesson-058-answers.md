@@ -11,8 +11,8 @@
 
 1. Weekend en madthira?
 2. Movie nodthini.
-3. Weekend en madthira?
-4. Sari.
+3. Walk hogthini.
+4. Rest madthini.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Weekend en madthira? Naan rest madthini.
 
 ## Quiz Answers
 
-1. What do you do on weekends?
+1. Weekend en madthira?
 2. Movie nodthini.
-3. Weekend en madthira?
-4. Sari.
+3. Walk hogthini.
+4. Rest madthini.
 
 ## Natural Bangalore Versions
 

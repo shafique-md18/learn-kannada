@@ -11,8 +11,8 @@
 
 1. Yaava time barthira?
 2. Three ghante barthini.
-3. Yaava time barthira?
-4. Sari.
+3. Half hour alli barthini.
+4. Late agutte.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Yaava time barthira?
 
 ## Quiz Answers
 
-1. At what time will you come?
+1. Yaava time barthira?
 2. Three ghante barthini.
-3. Yaava time barthira?
-4. Sari.
+3. Half hour alli barthini.
+4. Late agutte.
 
 ## Natural Bangalore Versions
 

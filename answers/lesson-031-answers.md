@@ -11,8 +11,8 @@
 
 1. Ivattu office hogbeku.
 2. Naale barthini.
-3. Ivattu office hogbeku.
-4. Sari.
+3. Ninne payment aayta?
+4. Sanje meet madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Naale beligge barthini.
 
 ## Quiz Answers
 
-1. I need to go to office today.
+1. Ivattu office hogbeku.
 2. Naale barthini.
-3. Ivattu office hogbeku.
-4. Sari.
+3. Ninne payment aayta?
+4. Sanje meet madi.
 
 ## Natural Bangalore Versions
 

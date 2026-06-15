@@ -161,8 +161,8 @@ You: Pickup gate horage. Reach aadmele call madi.
 
 ### Past And Explanation
 
-- Ninne marketge hogidde.
-- Idannu kondide.
+- Ninne market ge hode.
+- Idannu konde.
 - Naan call madide.
 - En aaytu?
 - Traffic jaasti, late aaytu.

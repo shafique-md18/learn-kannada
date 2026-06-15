@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Wrong address ge hogide.
+2. Correct address kalisi.
+3. Agent call madide.
 
 ## New Words
 
@@ -71,10 +71,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Give menu.
+2. Change the place/person/item and say: Is veg available?
+3. Use as the next line in a short conversation: Make less spicy.
+4. Combine old knowledge with today: Pack parcel.
 
 ## Real-Life Bangalore Roleplay
 
@@ -82,16 +82,15 @@ Order veg food, less spicy, and ask for bill.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Give menu.
+2. Say: Is veg available?
+3. Say: Make less spicy.
+4. Say: Pack parcel.
 
 ## Add These To Your Notes
 
 Add:
 
 - Restaurant sequence = core pattern
-- Menu kodi.
 - Menu kodi.
 - Veg ideya?

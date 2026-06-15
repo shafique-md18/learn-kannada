@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Idannu konde.
+2. Idannu togonde.
+3. Bill kotte.
 
 ## New Words
 
@@ -14,9 +14,9 @@ Say in Kannada:
 
 | Kannada | Hindi Pronunciation | Hindi Meaning | English Meaning | Bangalore Usage |
 |---|---|---|---|---|
-| nodide | नोडिदे | देखा | saw | Avru nodide. |
+| nodide | नोडिदे | मैंने देखा | I saw | Naan avru nodide. |
 | call madide | कॉल मडिदे | कॉल किया | called | Naan call madide. |
-| helide | हेळिदे | बताया | told | Naan helide. |
+| helide | हेळिदे | मैंने बताया | I told | Naan helide. |
 | message madide | मेसेज मडिदे | मैसेज किया | messaged | Message madide. |
 | reply illa | रिप्लाई इल्ला | जवाब नहीं | no reply | Reply illa. |
 
@@ -42,15 +42,15 @@ English: I saw him/her.
 |---|---|---|
 | Naan | मैं | I |
 | avru | वे/वह आदर से | he/she respectfully |
-| nodide | देखा | saw |
+| nodide | मैंने देखा | I saw |
 
 ## Sentence Construction Logic
 
-This lesson extends the reusable pattern `Naan ___ madide/helide`. Keep the sentence short first, then add time/place/person words.
+This lesson extends the reusable pattern `Naan ___ madide / Naan ___ helide`. Keep the sentence short first, then add time/place/person words.
 
 ## Reusable Pattern
 
-`Naan ___ madide/helide`
+`Naan ___ madide / Naan ___ helide`
 
 Examples:
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I called.
+2. Change the place/person/item and say: I messaged.
+3. Use as the next line in a short conversation: I told.
+4. Combine old knowledge with today: No reply.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,16 @@ Tell delivery support you called but no reply.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I called.
+2. Say: I messaged.
+3. Say: I told.
+4. Say: No reply.
 
 ## Add These To Your Notes
 
 Add:
 
-- Naan ___ madide/helide = core pattern
+- Naan ___ madide / Naan ___ helide = core pattern
 - Naan avru nodide.
 - Naan call madide.
 - Naan message madide.

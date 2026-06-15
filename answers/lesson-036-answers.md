@@ -11,8 +11,8 @@
 
 1. Naale beligge barthini.
 2. Sanje meet madi.
-3. Naale beligge barthini.
-4. Sari.
+3. Time confirm madi.
+4. Booking cancel madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Naale sanje meet madi. Time confirm madi.
 
 ## Quiz Answers
 
-1. I will come tomorrow morning.
+1. Naale beligge barthini.
 2. Sanje meet madi.
-3. Naale beligge barthini.
-4. Sari.
+3. Time confirm madi.
+4. Booking cancel madi.
 
 ## Natural Bangalore Versions
 

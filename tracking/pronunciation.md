@@ -102,7 +102,9 @@ This is natural daily speech, not a shortcut in the bad sense.
 
 - `madthini`: मद्तिनी
 - `madthira`: मद्तिरा
-- `hogidde`: होगिद्दे
+- `hode`: होदे
+- `bande`: बन्दे
+- `konde`: कोंडे
 - `aaytu`: आय्तु
 - `agalla`: आगल्ला
 

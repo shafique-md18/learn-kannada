@@ -20,26 +20,26 @@ Requirements:
 
 Respond in Kannada:
 
-1. A shopkeeper asks what you want.
-2. A driver asks where you need to go.
-3. A staff member says they cannot come now.
-4. A neighbour asks about you.
-5. A delivery agent cannot find your address.
-6. Someone speaks too fast.
-7. You need to explain a problem.
-8. You need to ask a follow-up question.
+1. Reply with short natural answers: know, do not know, okay, leave it.
+2. Ask someone to repeat clearly one more time.
+3. Understand a shopkeeper saying the item is not there.
+4. Refuse an auto driver's extra charge politely.
+5. Ask maintenance what time they will come after they say they are busy.
+6. Handle a full auto ride from pickup to drop.
+7. Handle a full restaurant order.
+8. Tell a new friend you want to practice Kannada.
 
 ## Part 3: Roleplays
 
-### Roleplay A
+### Roleplay A: Fast shopkeeper replies
 
 Handle one full daily-life conversation using only short Kannada lines.
 
-### Roleplay B
+### Roleplay B: Full auto ride
 
 Ask 5 follow-up questions without switching to English/Hindi.
 
-### Roleplay C
+### Roleplay C: Final social chat
 
 Explain one problem or plan in 5 simple Kannada sentences.
 

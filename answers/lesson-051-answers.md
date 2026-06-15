@@ -11,8 +11,8 @@
 
 1. Idu sulabha.
 2. Kannada swalpa kashta.
-3. Idu sulabha.
-4. Sari.
+3. Artha aaytu.
+4. Slow aagi heli.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Artha agilla. Slow aagi heli.
 
 ## Quiz Answers
 
-1. Kannada is a little difficult.
+1. Idu sulabha.
 2. Kannada swalpa kashta.
-3. Idu sulabha.
-4. Sari.
+3. Artha aaytu.
+4. Slow aagi heli.
 
 ## Natural Bangalore Versions
 

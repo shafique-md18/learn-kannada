@@ -11,8 +11,8 @@
 
 1. Nimge coffee ishta?
 2. Nimge yaavdu ishta?
-3. Nimge coffee ishta?
-4. Sari.
+3. Yaavdu beku?
+4. Idu better.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Nimge yaavdu food ishta?
 
 ## Quiz Answers
 
-1. Which one do you like?
+1. Nimge coffee ishta?
 2. Nimge yaavdu ishta?
-3. Nimge coffee ishta?
-4. Sari.
+3. Yaavdu beku?
+4. Idu better.
 
 ## Natural Bangalore Versions
 

@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Ninne market ge hode.
+2. Alli medicine konde.
+3. Amele manege bande.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I like coffee.
+2. Change the place/person/item and say: I do not like tea.
+3. Use as the next line in a short conversation: Like very much.
+4. Combine old knowledge with today: Like food.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Tell a colleague you like coffee but not tea.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I like coffee.
+2. Say: I do not like tea.
+3. Say: Like very much.
+4. Say: Like food.
 
 ## Add These To Your Notes
 
 Add:
 
 - Nanage ___ ishta = core pattern
-- Nanage coffee ishta.
 - Nanage coffee ishta.
 - Nanage tea ishta illa.

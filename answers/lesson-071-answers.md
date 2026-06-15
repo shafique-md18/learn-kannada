@@ -11,8 +11,8 @@
 
 1. Menu kodi.
 2. Veg ideya?
-3. Menu kodi.
-4. Sari.
+3. Less spicy madi.
+4. Parcel madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Menu kodi. Veg ideya? Less spicy madi. Bill kodi.
 
 ## Quiz Answers
 
-1. Give the menu.
+1. Menu kodi.
 2. Veg ideya?
-3. Menu kodi.
-4. Sari.
+3. Less spicy madi.
+4. Parcel madi.
 
 ## Natural Bangalore Versions
 

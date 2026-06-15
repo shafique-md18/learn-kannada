@@ -164,7 +164,13 @@ COMMON = {
     "aagide": ("हो गया है", "is done"),
     "bandilla": ("नहीं आया", "has not arrived"),
     "hogide": ("गया है", "has gone"),
-    "hogidde": ("गया था", "went"),
+    "hode": ("मैं गया", "I went"),
+    "bande": ("मैं आया", "I came"),
+    "konde": ("मैंने खरीदा", "I bought"),
+    "togonde": ("मैंने लिया", "I took"),
+    "kotte": ("मैंने दिया", "I gave"),
+    "nodide": ("मैंने देखा", "I saw"),
+    "helide": ("मैंने बताया", "I told"),
     "hogthini": ("मैं जाता हूं", "I go/will go"),
     "aagilla": ("नहीं हुआ", "not done"),
     "aaytu": ("हो गया", "happened/done"),
@@ -409,7 +415,7 @@ lessons = [
 ]
 
 more_lessons = [
-    (31, "Today, Tomorrow, Yesterday", "Ivattu office hogbeku.", "इवत्तु ऑफिस होग्बेकु.", "आज ऑफिस जाना है.", "I need to go to office today.", [("ivattu","इवत्तु","आज","today","Ivattu barthini."),("naale","नाले","कल","tomorrow","Naale barthini."),("ninne","निन्ने","कल बीता","yesterday","Ninne bandide."),("beligge","बेळिग्गे","सुबह","morning","Beligge barthini."),("san je","संजे","शाम","evening","Sanje barthini.")], "Time + sentence", ["Ivattu office hogbeku.", "Naale barthini.", "Ninne payment aayta?", "Sanje meet madi."], ["Today I need to go to office.", "I will come tomorrow.", "Payment happened yesterday?", "Meet in evening."], ["Ivattu office hogbeku.", "Naale barthini.", "Ninne payment aayta?", "Sanje meet madi."], "Tell security you will come tomorrow morning.", "Naale beligge barthini."),
+    (31, "Today, Tomorrow, Yesterday", "Ivattu office hogbeku.", "इवत्तु ऑफिस होग्बेकु.", "आज ऑफिस जाना है.", "I need to go to office today.", [("ivattu","इवत्तु","आज","today","Ivattu barthini."),("naale","नाले","कल","tomorrow","Naale barthini."),("ninne","निन्ने","कल बीता","yesterday","Ninne payment aayta?"),("beligge","बेळिग्गे","सुबह","morning","Beligge barthini."),("sanje","संजे","शाम","evening","Sanje barthini.")], "Time + sentence", ["Ivattu office hogbeku.", "Naale barthini.", "Ninne payment aayta?", "Sanje meet madi."], ["Today I need to go to office.", "I will come tomorrow.", "Payment happened yesterday?", "Meet in evening."], ["Ivattu office hogbeku.", "Naale barthini.", "Ninne payment aayta?", "Sanje meet madi."], "Tell security you will come tomorrow morning.", "Naale beligge barthini."),
     (32, "At What Time?", "Yaava time barthira?", "याव टाइम बर्तिरा?", "किस टाइम आएंगे?", "At what time will you come?", [("yaava time","याव टाइम","किस समय","what time","Yaava time barthira?"),("ghante","घंटे","बजे","o'clock/hour","Three ghante."),("half hour","हाफ आवर","आधा घंटा","half hour","Half hour alli barthini."),("early","अर्ली","जल्दी","early","Early barthira?"),("late","लेट","देर","late","Late agutte.")], "Yaava time + action?", ["Yaava time barthira?", "Three ghante barthini.", "Half hour alli barthini.", "Late agutte."], ["What time will you come?", "I will come at three.", "I will come in half hour.", "It will be late."], ["Yaava time barthira?", "Three ghante barthini.", "Half hour alli barthini.", "Late agutte."], "Ask maintenance what time they will come.", "Yaava time barthira?"),
     (33, "When Will It Happen?", "Yaavaga barthira?", "यावाग बर्तिरा?", "कब आएंगे?", "When will you come?", [("yaavaga","यावाग","कब","when","Yaavaga barthira?"),("iga","इगा","अभी","now","Iga banni."),("amele","आमेले","बाद में","later/after","Amele madthini."),("munche","मुन्चे","पहले","before","Munche call madi."),("ready","रेडी","तैयार","ready","Ready aayta?")], "Yaavaga ___?", ["Yaavaga barthira?", "Iga banni.", "Amele madthini.", "Munche call madi."], ["When will you come?", "Come now.", "I will do later.", "Call before."], ["Yaavaga barthira?", "Iga banni.", "Amele madthini.", "Munche call madi."], "Ask a delivery agent when he will come, then say call before coming.", "Yaavaga barthira? Baro munche call madi."),
     (34, "Daily Routine", "Daily office hogthini.", "डेली ऑफिस होग्तिनी.", "मैं रोज़ ऑफिस जाता हूं.", "I go to office daily.", [("daily","डेली","रोज़","daily","Daily office hogthini."),("sometimes","समटाइम्स","कभी-कभी","sometimes","Sometimes metro hogthini."),("usually","यूज़ुअली","आमतौर पर","usually","Usually cab beda."),("weekend","वीकेंड","सप्ताहांत","weekend","Weekend mane alli."),("busy irthini","बिज़ी इर्तिनी","व्यस्त रहता हूं","I am busy","Naan busy irthini.")], "Frequency + action", ["Daily office hogthini.", "Sometimes metro hogthini.", "Usually cab beda.", "Weekend mane alli."], ["I go to office daily.", "Sometimes I go by metro.", "Usually cab not wanted.", "Weekend at home."], ["Daily office hogthini.", "Sometimes metro hogthini.", "Usually cab beda.", "Weekend mane alli."], "Tell a neighbour your daily routine in two lines.", "Daily office hogthini. Weekend mane alli irthini."),
@@ -421,12 +427,12 @@ more_lessons = [
     (40, "Bring, Send, Tell", "Key tagondu banni.", "की तगोंडु बन्नि.", "चाबी लेकर आइए.", "Bring the key.", [("tagondu banni","तगोंडु बन्नि","लेकर आइए","bring","Key tagondu banni."),("kalisi","कळिसि","भेजिए","send","Photo kalisi."),("heli","हेळि","बताइए","tell","Problem heli."),("key","की","चाबी","key","Key elli?"),("photo","फोटो","फोटो","photo","Photo kalisi.")], "___ tagondu banni", ["Key tagondu banni.", "Photo kalisi.", "Problem heli.", "Bill tagondu banni."], ["Bring key.", "Send photo.", "Tell problem.", "Bring bill."], ["Key tagondu banni.", "Photo kalisi.", "Problem heli.", "Bill tagondu banni."], "Ask security to bring the key and call after reaching.", "Key tagondu banni. Reach aadmele call madi."),
     (41, "Delivery Problem", "Parcel bandilla.", "पार्सल बन्दिल्ला.", "पार्सल नहीं आया.", "Parcel has not arrived.", [("parcel","पार्सल","पार्सल","parcel","Parcel bandilla."),("order","ऑर्डर","ऑर्डर","order","Order elli?"),("missing","मिसिंग","गायब","missing","Item missing."),("wrong item","रॉन्ग आइटम","गलत सामान","wrong item","Wrong item bandide."),("return madi","रिटर्न माडि","वापस कीजिए","return","Return madi.")], "___ bandide / bandilla", ["Parcel bandide.", "Parcel bandilla.", "Wrong item bandide.", "Return madi."], ["Parcel arrived.", "Parcel has not arrived.", "Wrong item came.", "Return it."], ["Parcel bandide.", "Parcel bandilla.", "Wrong item bandide.", "Return madi."], "Tell delivery support that wrong item came.", "Wrong item bandide. Return madi."),
     (42, "Polite Complaint", "Swalpa help madi.", "स्वल्प हेल्प माडि.", "थोड़ी मदद कीजिए.", "Please help a little.", [("help madi","हेल्प माडि","मदद कीजिए","help","Swalpa help madi."),("complaint","कम्प्लेंट","शिकायत","complaint","Complaint madbeku."),("manager","मैनेजर","मैनेजर","manager","Manager yaaru?"),("matadi","माताडि","बात कीजिए","speak/talk","Manager jothe matadi."),("jothe","जोते","के साथ","with","Avru jothe matadi.")], "___ jothe matadi", ["Swalpa help madi.", "Complaint madbeku.", "Manager yaaru?", "Manager jothe matadi."], ["Please help.", "Need to complain.", "Who is manager?", "Speak with manager."], ["Swalpa help madi.", "Complaint madbeku.", "Manager yaaru?", "Manager jothe matadi."], "At a store, politely ask for help and manager.", "Swalpa help madi. Manager yaaru? Avru jothe matadbeku."),
-    (43, "I Went, I Came", "Naan office hogidde.", "नान् ऑफिस होगिद्दे.", "मैं ऑफिस गया था.", "I went to office.", [("hogidde","होगिद्दे","गया था","went","Naan office hogidde."),("bandide","बन्दिदे","आया है","has come","Parcel bandide."),("bandidde","बन्दिद्दे","आया था","came","Naan ninne bandide/bandidde."),("manege","मनेगे","घर को","to home","Manege hogidde."),("officege","ऑफिसगे","ऑफिस को","to office","Officege hogidde.")], "Naan ___ hogidde", ["Naan officege hogidde.", "Naan manege hogidde.", "Ninne bandide.", "Naale barthini."], ["I went to office.", "I went home.", "Came yesterday.", "Will come tomorrow."], ["Naan officege hogidde.", "Naan manege hogidde.", "Ninne bandide.", "Naale barthini."], "Tell a colleague you went home yesterday.", "Ninne manege hogidde."),
-    (44, "I Bought And Took", "Idannu kondide.", "इदन्नु कोंडिदे.", "मैंने इसे खरीदा.", "I bought this.", [("kondide","कोंडिदे","खरीदा","bought","Idannu kondide."),("togonde","तगोंडे","ले लिया","took","Idannu togonde."),("kotide","कोटिदे","दिया","gave","Bill kotide."),("market","मार्केट","बाज़ार","market","Market alli kondide."),("medicine","मेडिसिन","दवा","medicine","Medicine kondide.")], "Object + past action", ["Idannu kondide.", "Idannu togonde.", "Bill kotide.", "Medicine kondide."], ["Bought this.", "Took this.", "Gave bill.", "Bought medicine."], ["Idannu kondide.", "Idannu togonde.", "Bill kotide.", "Medicine kondide."], "Tell someone you bought medicine from market.", "Market alli medicine kondide."),
-    (45, "I Saw, Called, Told", "Naan avru nodide.", "नान् अव्रु नोडिदे.", "मैंने उन्हें देखा.", "I saw him/her.", [("nodide","नोडिदे","देखा","saw","Avru nodide."),("call madide","कॉल मडिदे","कॉल किया","called","Naan call madide."),("helide","हेळिदे","बताया","told","Naan helide."),("message madide","मेसेज मडिदे","मैसेज किया","messaged","Message madide."),("reply illa","रिप्लाई इल्ला","जवाब नहीं","no reply","Reply illa.")], "Naan ___ madide/helide", ["Naan call madide.", "Naan message madide.", "Naan helide.", "Reply illa."], ["I called.", "I messaged.", "I told.", "No reply."], ["Naan call madide.", "Naan message madide.", "Naan helide.", "Reply illa."], "Tell delivery support you called but no reply.", "Naan call madide. Reply illa."),
+    (43, "I Went, I Came", "Naan office ge hode.", "नान् ऑफिस गे होदे.", "मैं ऑफिस गया.", "I went to office.", [("hode","होदे","मैं गया","I went","Naan office ge hode."),("bande","बन्दे","मैं आया","I came","Naan ninne bande."),("manege","मनेगे","घर को","to home","Manege hode."),("office ge","ऑफिस गे","ऑफिस को","to office","Office ge hode."),("apas bandide","वापस बन्दिदे","वापस आया है","came back/has returned","Parcel apas bandide.")], "Naan ___ ge hode / Naan ___ bande", ["Naan office ge hode.", "Naan manege hode.", "Ninne bande.", "Naale barthini."], ["I went to office.", "I went home.", "I came yesterday.", "I will come tomorrow."], ["Naan office ge hode.", "Naan manege hode.", "Ninne bande.", "Naale barthini."], "Tell a colleague you went home yesterday.", "Ninne manege hode."),
+    (44, "I Bought And Took", "Idannu konde.", "इदन्नु कोंडे.", "मैंने इसे खरीदा.", "I bought this.", [("konde","कोंडे","मैंने खरीदा","I bought","Idannu konde."),("togonde","तगोंडे","मैंने ले लिया","I took","Idannu togonde."),("kotte","कोट्टे","मैंने दिया","I gave","Bill kotte."),("market","मार्केट","बाज़ार","market","Market alli konde."),("medicine","मेडिसिन","दवा","medicine","Medicine konde.")], "Object + konde/togonde/kotte", ["Idannu konde.", "Idannu togonde.", "Bill kotte.", "Medicine konde."], ["I bought this.", "I took this.", "I gave bill.", "I bought medicine."], ["Idannu konde.", "Idannu togonde.", "Bill kotte.", "Medicine konde."], "Tell someone you bought medicine from market.", "Market alli medicine konde."),
+    (45, "I Saw, Called, Told", "Naan avru nodide.", "नान् अव्रु नोडिदे.", "मैंने उन्हें देखा.", "I saw him/her.", [("nodide","नोडिदे","मैंने देखा","I saw","Naan avru nodide."),("call madide","कॉल मडिदे","कॉल किया","called","Naan call madide."),("helide","हेळिदे","मैंने बताया","I told","Naan helide."),("message madide","मेसेज मडिदे","मैसेज किया","messaged","Message madide."),("reply illa","रिप्लाई इल्ला","जवाब नहीं","no reply","Reply illa.")], "Naan ___ madide / Naan ___ helide", ["Naan call madide.", "Naan message madide.", "Naan helide.", "Reply illa."], ["I called.", "I messaged.", "I told.", "No reply."], ["Naan call madide.", "Naan message madide.", "Naan helide.", "Reply illa."], "Tell delivery support you called but no reply.", "Naan call madide. Reply illa."),
     (46, "What Happened?", "En aaytu?", "एन आय्तु?", "क्या हुआ?", "What happened?", [("en aaytu","एन आय्तु","क्या हुआ","what happened","En aaytu?"),("yake","याके","क्यों","why","Yake late?"),("late aaytu","लेट आय्तु","देर हुई","became late","Late aaytu."),("miss aaytu","मिस आय्तु","छूट गया","missed","Call miss aaytu."),("cancel aaytu","कैंसल आय्तु","रद्द हुआ","got cancelled","Booking cancel aaytu.")], "___ aaytu?", ["En aaytu?", "Yake late?", "Call miss aaytu.", "Booking cancel aaytu."], ["What happened?", "Why late?", "Call missed.", "Booking got cancelled."], ["En aaytu?", "Yake late?", "Call miss aaytu.", "Booking cancel aaytu."], "Ask driver why he is late and what happened.", "Yake late? En aaytu?"),
     (47, "Because And So", "Traffic jaasti, late aaytu.", "ट्रैफिक जास्ति, लेट आय्तु.", "ट्रैफिक ज्यादा था, देर हो गई.", "Traffic was heavy, so it got late.", [("adakke","अदक्के","इसलिए","so/therefore","Adakke late aaytu."),("because","बिकॉज़","क्योंकि","because","Traffic because late aaytu."),("reason","रीज़न","कारण","reason","Reason enu?"),("problem aaytu","प्रॉब्लम आय्तु","समस्या हुई","problem happened","Problem aaytu."),("sorry","सॉरी","माफ़ कीजिए","sorry","Sorry, late aaytu.")], "Reason, result", ["Traffic jaasti, late aaytu.", "Adakke late aaytu.", "Reason enu?", "Sorry, late aaytu."], ["Traffic heavy, got late.", "So it got late.", "What is reason?", "Sorry, got late."], ["Traffic jaasti, late aaytu.", "Adakke late aaytu.", "Reason enu?", "Sorry, late aaytu."], "Explain to a colleague why you are late.", "Sorry, traffic jaasti. Adakke late aaytu."),
-    (48, "Past Story Combo", "Ninne marketge hogidde.", "निन्ने मार्केटगे होगिद्दे.", "कल मार्केट गया था.", "Yesterday I went to market.", [("marketge","मार्केटगे","बाज़ार को","to market","Marketge hogidde."),("alli","अल्लि","वहां/में","there/at","Alli medicine kondide."),("amele","आमेले","फिर","then/after","Amele manege bandide."),("friend","फ्रेंड","दोस्त","friend","Friend jothe hogidde."),("jothe","जोते","के साथ","with","Friend jothe.")], "Past sequence", ["Ninne marketge hogidde.", "Alli medicine kondide.", "Amele manege bandide.", "Friend jothe hogidde."], ["Yesterday went to market.", "Bought medicine there.", "Then came home.", "Went with friend."], ["Ninne marketge hogidde.", "Alli medicine kondide.", "Amele manege bandide.", "Friend jothe hogidde."], "Say a simple 3-line story about going to market yesterday.", "Ninne marketge hogidde. Alli medicine kondide. Amele manege bandide."),
+    (48, "Past Story Combo", "Ninne market ge hode.", "निन्ने मार्केट गे होदे.", "कल मार्केट गया.", "Yesterday I went to market.", [("market ge","मार्केट गे","बाज़ार को","to market","Market ge hode."),("alli","अल्लि","वहां/में","there/at","Alli medicine konde."),("amele","आमेले","फिर","then/after","Amele manege bande."),("friend","फ्रेंड","दोस्त","friend","Friend jothe hode."),("jothe","जोते","के साथ","with","Friend jothe.")], "Past sequence: time + place + action", ["Ninne market ge hode.", "Alli medicine konde.", "Amele manege bande.", "Friend jothe hode."], ["Yesterday I went to market.", "Bought medicine there.", "Then came home.", "Went with friend."], ["Ninne market ge hode.", "Alli medicine konde.", "Amele manege bande.", "Friend jothe hode."], "Say a simple 3-line story about going to market yesterday.", "Ninne market ge hode. Alli medicine konde. Amele manege bande."),
     (49, "I Like, I Do Not Like", "Nanage coffee ishta.", "ननगे कॉफी इष्ट.", "मुझे कॉफी पसंद है.", "I like coffee.", [("nanage","ननगे","मुझे","to me/I", "Nanage ishta."),("ishta","इष्ट","पसंद","like","Coffee ishta."),("ishta illa","इष्ट इल्ला","पसंद नहीं","do not like","Tea ishta illa."),("tumba","तुम्ब","बहुत","very", "Tumba ishta."),("food","फूड","खाना","food","Food ishta.")], "Nanage ___ ishta", ["Nanage coffee ishta.", "Nanage tea ishta illa.", "Tumba ishta.", "Food ishta."], ["I like coffee.", "I do not like tea.", "Like very much.", "Like food."], ["Nanage coffee ishta.", "Nanage tea ishta illa.", "Tumba ishta.", "Food ishta."], "Tell a colleague you like coffee but not tea.", "Nanage coffee ishta. Tea ishta illa."),
     (50, "Good, Bad, Tasty", "Coffee chennagide.", "कॉफी चेन्नागिदे.", "कॉफी अच्छी है.", "Coffee is good.", [("chennagide","चेन्नागिदे","अच्छा है","is good","Coffee chennagide."),("chennagilla","चेन्नागिल्ला","अच्छा नहीं","not good","Idu chennagilla."),("ruchi","रुचि","स्वाद","taste","Ruchi chennagide."),("tasty","टेस्टी","स्वादिष्ट","tasty","Tasty ide."),("spicy","स्पाइसी","तीखा","spicy","Spicy jaasti.")], "___ chennagide", ["Coffee chennagide.", "Idu chennagilla.", "Ruchi chennagide.", "Spicy jaasti."], ["Coffee is good.", "This is not good.", "Taste is good.", "Too spicy."], ["Coffee chennagide.", "Idu chennagilla.", "Ruchi chennagide.", "Spicy jaasti."], "At a restaurant, say the food is good but too spicy.", "Food chennagide. Spicy jaasti."),
     (51, "Easy And Difficult", "Kannada swalpa kashta.", "कन्नडा स्वल्प कष्ट.", "कन्नड़ थोड़ा कठिन है.", "Kannada is a little difficult.", [("sulabha","सुलभ", "आसान", "easy", "Idu sulabha."),("kashta","कष्ट","मुश्किल","difficult","Kannada kashta."),("artha aaytu","अर्थ आय्तु","समझ आया","understood","Artha aaytu."),("artha agilla","अर्थ आगिल्ला","समझ नहीं आया","did not understand","Artha agilla."),("slow aagi","स्लो आगि","धीरे से","slowly","Slow aagi heli.")], "___ sulabha/kashta", ["Idu sulabha.", "Kannada swalpa kashta.", "Artha aaytu.", "Slow aagi heli."], ["This is easy.", "Kannada is a little difficult.", "Understood.", "Tell slowly."], ["Idu sulabha.", "Kannada swalpa kashta.", "Artha aaytu.", "Slow aagi heli."], "Tell someone you did not understand and ask them to speak slowly.", "Artha agilla. Slow aagi heli."),
@@ -450,14 +456,14 @@ more_lessons = [
     (69, "Full Apartment Repair", "Bathroom leak aagide.", "बाथरूम लीक आगिदे.", "बाथरूम में लीकेज है.", "Bathroom is leaking.", [("bathroom","बाथरूम","बाथरूम","bathroom","Bathroom alli problem."),("leak aagide","लीक आगिदे","लीक हो रहा","is leaking","Pipe leak aagide."),("pipe","पाइप","पाइप","pipe","Pipe check madi."),("smell","स्मेल","बदबू","smell","Smell jaasti."),("immediate","इमीडिएट","तुरंत","immediate","Immediate barbeku.")], "Repair sequence", ["Bathroom leak aagide.", "Pipe check madi.", "Plumber kalisi.", "Immediate barbeku."], ["Bathroom is leaking.", "Check pipe.", "Send plumber.", "Need to come immediately."], ["Bathroom leak aagide.", "Pipe check madi.", "Plumber kalisi.", "Immediate barbeku."], "Report a bathroom leak and ask for plumber.", "Bathroom leak aagide. Plumber kalisi. Immediate barbeku."),
     (70, "Full Delivery Confusion", "Order wrong address ge hogide.", "ऑर्डर रॉन्ग अड्रेस गे होगिदे.", "ऑर्डर गलत पते पर गया है.", "Order went to wrong address.", [("wrong address","रॉन्ग अड्रेस","गलत पता","wrong address","Wrong address ge hogide."),("correct address","करेक्ट अड्रेस","सही पता","correct address","Correct address kalisi."),("agent","एजेंट","एजेंट","agent","Agent call madide."),("reschedule","रीशेड्यूल","फिर से समय तय","reschedule","Reschedule madi."),("refund","रिफंड","पैसे वापस","refund","Refund beku.")], "Delivery recovery", ["Wrong address ge hogide.", "Correct address kalisi.", "Agent call madide.", "Reschedule madi."], ["Went to wrong address.", "Send correct address.", "Called agent.", "Reschedule."], ["Wrong address ge hogide.", "Correct address kalisi.", "Agent call madide.", "Reschedule madi."], "Explain delivery went to wrong address and ask to reschedule.", "Order wrong address ge hogide. Reschedule madi."),
     (71, "Full Restaurant Order", "Menu kodi.", "मेन्यू कोडि.", "मेन्यू दीजिए.", "Give the menu.", [("menu","मेन्यू","मेन्यू","menu","Menu kodi."),("veg","वेज","शाकाहारी","veg","Veg ideya?"),("non-veg","नॉन-वेज","मांसाहारी","non-veg","Non-veg beda."),("less spicy","लेस स्पाइसी","कम तीखा","less spicy","Less spicy madi."),("parcel madi","पार्सल माडि","पैक कर दीजिए","pack as parcel","Parcel madi.")], "Restaurant sequence", ["Menu kodi.", "Veg ideya?", "Less spicy madi.", "Parcel madi."], ["Give menu.", "Is veg available?", "Make less spicy.", "Pack parcel."], ["Menu kodi.", "Veg ideya?", "Less spicy madi.", "Parcel madi."], "Order veg food, less spicy, and ask for bill.", "Menu kodi. Veg ideya? Less spicy madi. Bill kodi."),
-    (72, "Social Chat Final Combo", "Kannada practice madbeku.", "कन्नडा प्रैक्टिस मड्बेकु.", "कन्नड़ प्रैक्टिस करनी है.", "I need to practice Kannada.", [("practice","प्रैक्टिस","अभ्यास","practice","Kannada practice madbeku."),("friend aagona","फ्रेंड आगोणा","दोस्त बनें","let us become friends","Friend aagona."),("contact","कॉन्टैक्ट","संपर्क","contact","Contact kalisi."),("matadona","माताडोणा","बात करें","let us talk","Kannada alli matadona."),("slowly slowly","स्लोली स्लोली","धीरे-धीरे","slowly", "Slowly slowly kalithini.")], "Social closing", ["Kannada practice madbeku.", "Kannada alli matadona.", "Friend aagona.", "Slowly slowly kalithini."], ["Need to practice Kannada.", "Let us speak in Kannada.", "Let us become friends.", "I am learning slowly."], ["Kannada practice madbeku.", "Kannada alli matadona.", "Friend aagona.", "Slowly slowly kalithini."], "Tell a new friend you want to practice Kannada and speak slowly.", "Kannada practice madbeku. Kannada alli matadona. Slow aagi heli."),
+    (72, "Social Chat Final Combo", "Kannada practice madbeku.", "कन्नडा प्रैक्टिस मड्बेकु.", "कन्नड़ प्रैक्टिस करनी है.", "I need to practice Kannada.", [("practice","प्रैक्टिस","अभ्यास","practice","Kannada practice madbeku."),("friend aagona","फ्रेंड आगोणा","दोस्त बनें","let us become friends","Friend aagona."),("contact","कॉन्टैक्ट","संपर्क","contact","Contact kalisi."),("matadona","माताडोणा","बात करें","let us talk","Kannada alli matadona."),("slowly slowly","स्लोली स्लोली","धीरे-धीरे","slowly", "Slowly slowly kalithini.")], "___ madbeku / ___ alli matadona", ["Kannada practice madbeku.", "Kannada alli matadona.", "Friend aagona.", "Slowly slowly kalithini."], ["Need to practice Kannada.", "Let us speak in Kannada.", "Let us become friends.", "I am learning slowly."], ["Kannada practice madbeku.", "Kannada alli matadona.", "Friend aagona.", "Slowly slowly kalithini."], "Tell a new friend you want to practice Kannada and speak slowly.", "Kannada practice madbeku. Kannada alli matadona. Slow aagi heli."),
 ]
 
 for n, title, sentence, pron, hi, en, words, pattern, examples, prompts, answers, role_prompt, role_answer in more_lessons:
     lessons.append({
         "n": n,
         "title": title,
-        "recall": ["Use one old question pattern.", "Use one old request pattern.", "Use one old location or time pattern."],
+        "recall": [],
         "words": words,
         "sentence": sentence,
         "pron": pron,
@@ -469,16 +475,51 @@ for n, title, sentence, pron, hi, en, words, pattern, examples, prompts, answers
         "examples": examples,
         "guided_prompts": prompts,
         "guided_answers": answers,
-        "production_prompts": ["Use the main pattern in a real Bangalore situation.", "Change the person/place/time and say it again.", "Ask one follow-up question.", "Give one natural short reply."],
-        "production_answers": [answers[0], answers[1], examples[0] if examples else sentence, "Sari."],
+        "production_prompts": [],
+        "production_answers": [],
         "roleplay_prompt": role_prompt,
         "roleplay_answer": role_answer,
-        "quiz_prompts": ["Translate the main sentence.", "Use the main pattern with a new word.", "Ask one related question.", "Give one short natural response."],
-        "quiz_answers": [en, examples[1] if len(examples) > 1 else sentence, examples[0] if examples else sentence, "Sari."],
-        "notes": [f"{pattern} = core pattern", sentence, *examples[:2]],
+        "quiz_prompts": [],
+        "quiz_answers": [],
+        "notes": [f"{pattern} = core pattern", sentence, *[x for x in examples[:2] if x != sentence]],
         "natural": f"`{sentence}` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.",
         "mistake": "Do not force a long sentence. Build two short sentences if needed.",
     })
+
+
+def enrich_generated_lessons():
+    for i, s in enumerate(lessons):
+        if s["n"] < 31:
+            continue
+
+        prev = lessons[i - 1]
+        prev_examples = prev.get("examples", [])
+        s["recall"] = [
+            prev_examples[0] if len(prev_examples) > 0 else "Ask one old question.",
+            prev_examples[1] if len(prev_examples) > 1 else "Make one old request.",
+            prev_examples[2] if len(prev_examples) > 2 else "Use one old location or time sentence.",
+        ]
+
+        prompts = s["guided_prompts"]
+        answers = s["guided_answers"]
+        s["production_prompts"] = [
+            f"In a real Bangalore situation: {prompts[0]}",
+            f"Change the place/person/item and say: {prompts[1]}",
+            f"Use as the next line in a short conversation: {prompts[2]}",
+            f"Combine old knowledge with today: {prompts[3]}",
+        ]
+        s["production_answers"] = answers[:]
+
+        s["quiz_prompts"] = [
+            f"Say: {prompts[0]}",
+            f"Say: {prompts[1]}",
+            f"Say: {prompts[2]}",
+            f"Say: {prompts[3]}",
+        ]
+        s["quiz_answers"] = answers[:]
+
+
+enrich_generated_lessons()
 
 
 for s in lessons:
@@ -496,8 +537,71 @@ checkpoint_ranges = [
     (6, 61, 72, "Natural speech, listening variants, and full scenarios"),
 ]
 
+checkpoint_situations = {
+    2: [
+        "At a grocery shop, ask how much an item is and say you will take it.",
+        "Ask if UPI is available and say you do not have cash.",
+        "Ask for one packet, then ask for a receipt.",
+        "Tell an auto driver you need to go to office by meter.",
+        "Tell a cab driver the pickup is outside the gate.",
+        "Tell a driver to go slowly because traffic is heavy.",
+        "Ask which route the driver knows.",
+        "Tell the driver to call after reaching.",
+    ],
+    3: [
+        "Introduce yourself to a neighbour.",
+        "Ask someone their name and work.",
+        "Ask a colleague if they ate.",
+        "Give two housekeeping instructions.",
+        "Ask maintenance to check and fix a fan.",
+        "Say you live here and are new here.",
+        "Say you will come tomorrow morning.",
+        "Ask what time someone will come.",
+    ],
+    4: [
+        "Explain that the fan is not working.",
+        "Say there is no water supply.",
+        "Ask for an electrician or plumber.",
+        "Ask someone to bring a key.",
+        "Explain that a parcel has not arrived.",
+        "Politely ask for help and the manager.",
+        "Say you went to market yesterday and bought medicine.",
+        "Explain that traffic was heavy, so you were late.",
+    ],
+    5: [
+        "Say what food or drink you like and do not like.",
+        "Say the food is good but too spicy.",
+        "Say you did not understand and ask them to speak slowly.",
+        "Ask which option someone likes.",
+        "Say you are tired and will come later.",
+        "Ask where someone is from.",
+        "Say you know Hindi and English and are learning Kannada.",
+        "Invite a colleague for tea or coffee.",
+    ],
+    6: [
+        "Reply with short natural answers: know, do not know, okay, leave it.",
+        "Ask someone to repeat clearly one more time.",
+        "Understand a shopkeeper saying the item is not there.",
+        "Refuse an auto driver's extra charge politely.",
+        "Ask maintenance what time they will come after they say they are busy.",
+        "Handle a full auto ride from pickup to drop.",
+        "Handle a full restaurant order.",
+        "Tell a new friend you want to practice Kannada.",
+    ],
+}
+
+checkpoint_roleplays = {
+    2: ["Full grocery purchase", "Auto meter negotiation", "Cab pickup confusion"],
+    3: ["Neighbour introduction", "Housekeeping visit", "Planning tomorrow's timing"],
+    4: ["Apartment repair complaint", "Delivery problem", "Explaining why you were late"],
+    5: ["Restaurant opinion chat", "New colleague small talk", "Coffee invite"],
+    6: ["Fast shopkeeper replies", "Full auto ride", "Final social chat"],
+}
+
 for idx, start, end, theme in checkpoint_ranges:
     p = ROOT / "checkpoints" / f"checkpoint-{idx:02d}-lessons-{start:03d}-to-{end:03d}.md"
+    situations = checkpoint_situations[idx]
+    roleplays = checkpoint_roleplays[idx]
     p.write_text(f"""# Checkpoint {idx:02d}: Lessons {start:03d}-{end:03d}
 
 Theme: {theme}.
@@ -520,26 +624,19 @@ Requirements:
 
 Respond in Kannada:
 
-1. A shopkeeper asks what you want.
-2. A driver asks where you need to go.
-3. A staff member says they cannot come now.
-4. A neighbour asks about you.
-5. A delivery agent cannot find your address.
-6. Someone speaks too fast.
-7. You need to explain a problem.
-8. You need to ask a follow-up question.
+{bullets(situations)}
 
 ## Part 3: Roleplays
 
-### Roleplay A
+### Roleplay A: {roleplays[0]}
 
 Handle one full daily-life conversation using only short Kannada lines.
 
-### Roleplay B
+### Roleplay B: {roleplays[1]}
 
 Ask 5 follow-up questions without switching to English/Hindi.
 
-### Roleplay C
+### Roleplay C: {roleplays[2]}
 
 Explain one problem or plan in 5 simple Kannada sentences.
 

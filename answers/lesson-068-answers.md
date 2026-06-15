@@ -11,8 +11,8 @@
 
 1. Milk ideya?
 2. Bread kodi.
-3. Milk ideya?
-4. Sari.
+3. Eggs beku.
+4. Total eshtu?
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Milk ideya? Bread kodi. Eggs beku. Total eshtu?
 
 ## Quiz Answers
 
-1. Is this on the list?
+1. Milk ideya?
 2. Bread kodi.
-3. Milk ideya?
-4. Sari.
+3. Eggs beku.
+4. Total eshtu?
 
 ## Natural Bangalore Versions
 

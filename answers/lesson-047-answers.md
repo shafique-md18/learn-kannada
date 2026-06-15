@@ -11,8 +11,8 @@
 
 1. Traffic jaasti, late aaytu.
 2. Adakke late aaytu.
-3. Traffic jaasti, late aaytu.
-4. Sari.
+3. Reason enu?
+4. Sorry, late aaytu.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Sorry, traffic jaasti. Adakke late aaytu.
 
 ## Quiz Answers
 
-1. Traffic was heavy, so it got late.
+1. Traffic jaasti, late aaytu.
 2. Adakke late aaytu.
-3. Traffic jaasti, late aaytu.
-4. Sari.
+3. Reason enu?
+4. Sorry, late aaytu.
 
 ## Natural Bangalore Versions
 

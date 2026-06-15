@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Parcel bandide.
+2. Parcel bandilla.
+3. Wrong item bandide.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Please help.
+2. Change the place/person/item and say: Need to complain.
+3. Use as the next line in a short conversation: Who is manager?
+4. Combine old knowledge with today: Speak with manager.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ At a store, politely ask for help and manager.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Please help.
+2. Say: Need to complain.
+3. Say: Who is manager?
+4. Say: Speak with manager.
 
 ## Add These To Your Notes
 
 Add:
 
 - ___ jothe matadi = core pattern
-- Swalpa help madi.
 - Swalpa help madi.
 - Complaint madbeku.

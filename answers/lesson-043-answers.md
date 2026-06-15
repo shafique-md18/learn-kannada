@@ -2,32 +2,32 @@
 
 ## Guided Practice Answers
 
-1. Naan officege hogidde.
-2. Naan manege hogidde.
-3. Ninne bandide.
+1. Naan office ge hode.
+2. Naan manege hode.
+3. Ninne bande.
 4. Naale barthini.
 
 ## Production Practice Sample Answers
 
-1. Naan officege hogidde.
-2. Naan manege hogidde.
-3. Naan officege hogidde.
-4. Sari.
+1. Naan office ge hode.
+2. Naan manege hode.
+3. Ninne bande.
+4. Naale barthini.
 
 ## Roleplay Sample
 
-Ninne manege hogidde.
+Ninne manege hode.
 
 ## Quiz Answers
 
-1. I went to office.
-2. Naan manege hogidde.
-3. Naan officege hogidde.
-4. Sari.
+1. Naan office ge hode.
+2. Naan manege hode.
+3. Ninne bande.
+4. Naale barthini.
 
 ## Natural Bangalore Versions
 
-- `Naan office hogidde.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
+- `Naan office ge hode.` is a practical Bangalore sentence; the English loan words are acceptable where locals use them.
 
 ## Common Mistakes
 

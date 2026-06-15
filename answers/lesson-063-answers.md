@@ -11,8 +11,8 @@
 
 1. Ide, togoli.
 2. Illa saar.
-3. Ide, togoli.
-4. Sari.
+3. Naale banni.
+4. Cash only.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Sari. Naale barthini.
 
 ## Quiz Answers
 
-1. It is there, take it.
+1. Ide, togoli.
 2. Illa saar.
-3. Ide, togoli.
-4. Sari.
+3. Naale banni.
+4. Cash only.
 
 ## Natural Bangalore Versions
 

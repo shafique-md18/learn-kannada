@@ -11,8 +11,8 @@
 
 1. Swalpa help madi.
 2. Complaint madbeku.
-3. Swalpa help madi.
-4. Sari.
+3. Manager yaaru?
+4. Manager jothe matadi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Swalpa help madi. Manager yaaru? Avru jothe matadbeku.
 
 ## Quiz Answers
 
-1. Please help a little.
+1. Swalpa help madi.
 2. Complaint madbeku.
-3. Swalpa help madi.
-4. Sari.
+3. Manager yaaru?
+4. Manager jothe matadi.
 
 ## Natural Bangalore Versions
 

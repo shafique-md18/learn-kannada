@@ -11,8 +11,8 @@
 
 1. Nanage tired aagide.
 2. Nanage hungry.
-3. Nanage tired aagide.
-4. Sari.
+3. Nanage sleepy.
+4. Health sari illa.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Nanage tired aagide. Aamele barthini.
 
 ## Quiz Answers
 
-1. I am tired.
+1. Nanage tired aagide.
 2. Nanage hungry.
-3. Nanage tired aagide.
-4. Sari.
+3. Nanage sleepy.
+4. Health sari illa.
 
 ## Natural Bangalore Versions
 

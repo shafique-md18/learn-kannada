@@ -11,8 +11,8 @@
 
 1. Nanage idu chennagide anisutte.
 2. Idu correct.
-3. Nanage idu chennagide anisutte.
-4. Sari.
+3. Idu wrong.
+4. Try madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Nanage idu route better anisutte.
 
 ## Quiz Answers
 
-1. I think this is good.
+1. Nanage idu chennagide anisutte.
 2. Idu correct.
-3. Nanage idu chennagide anisutte.
-4. Sari.
+3. Idu wrong.
+4. Try madi.
 
 ## Natural Bangalore Versions
 

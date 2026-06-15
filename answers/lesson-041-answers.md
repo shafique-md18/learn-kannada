@@ -11,8 +11,8 @@
 
 1. Parcel bandide.
 2. Parcel bandilla.
-3. Parcel bandide.
-4. Sari.
+3. Wrong item bandide.
+4. Return madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Wrong item bandide. Return madi.
 
 ## Quiz Answers
 
-1. Parcel has not arrived.
+1. Parcel bandide.
 2. Parcel bandilla.
-3. Parcel bandide.
-4. Sari.
+3. Wrong item bandide.
+4. Return madi.
 
 ## Natural Bangalore Versions
 

@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Nimge coffee ishta?
+2. Nimge yaavdu ishta?
+3. Yaavdu beku?
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I am tired.
+2. Change the place/person/item and say: I am hungry.
+3. Use as the next line in a short conversation: I am sleepy.
+4. Combine old knowledge with today: Health is not okay.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ Tell a colleague you are tired and will come later.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I am tired.
+2. Say: I am hungry.
+3. Say: I am sleepy.
+4. Say: Health is not okay.
 
 ## Add These To Your Notes
 
 Add:
 
 - Nanage ___ = core pattern
-- Nanage tired aagide.
 - Nanage tired aagide.
 - Nanage hungry.

@@ -11,8 +11,8 @@
 
 1. Coffee chennagide.
 2. Idu chennagilla.
-3. Coffee chennagide.
-4. Sari.
+3. Ruchi chennagide.
+4. Spicy jaasti.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Food chennagide. Spicy jaasti.
 
 ## Quiz Answers
 
-1. Coffee is good.
+1. Coffee chennagide.
 2. Idu chennagilla.
-3. Coffee chennagide.
-4. Sari.
+3. Ruchi chennagide.
+4. Spicy jaasti.
 
 ## Natural Bangalore Versions
 

@@ -20,26 +20,26 @@ Requirements:
 
 Respond in Kannada:
 
-1. A shopkeeper asks what you want.
-2. A driver asks where you need to go.
-3. A staff member says they cannot come now.
-4. A neighbour asks about you.
-5. A delivery agent cannot find your address.
-6. Someone speaks too fast.
-7. You need to explain a problem.
-8. You need to ask a follow-up question.
+1. Explain that the fan is not working.
+2. Say there is no water supply.
+3. Ask for an electrician or plumber.
+4. Ask someone to bring a key.
+5. Explain that a parcel has not arrived.
+6. Politely ask for help and the manager.
+7. Say you went to market yesterday and bought medicine.
+8. Explain that traffic was heavy, so you were late.
 
 ## Part 3: Roleplays
 
-### Roleplay A
+### Roleplay A: Apartment repair complaint
 
 Handle one full daily-life conversation using only short Kannada lines.
 
-### Roleplay B
+### Roleplay B: Delivery problem
 
 Ask 5 follow-up questions without switching to English/Hindi.
 
-### Roleplay C
+### Roleplay C: Explaining why you were late
 
 Explain one problem or plan in 5 simple Kannada sentences.
 

@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Nanage tired aagide.
+2. Nanage hungry.
+3. Nanage sleepy.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: I feel this is good.
+2. Change the place/person/item and say: This is correct.
+3. Use as the next line in a short conversation: This is wrong.
+4. Combine old knowledge with today: Try.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,10 +83,10 @@ Give an opinion about a route being better.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: I feel this is good.
+2. Say: This is correct.
+3. Say: This is wrong.
+4. Say: Try.
 
 ## Add These To Your Notes
 

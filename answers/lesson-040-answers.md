@@ -11,8 +11,8 @@
 
 1. Key tagondu banni.
 2. Photo kalisi.
-3. Key tagondu banni.
-4. Sari.
+3. Problem heli.
+4. Bill tagondu banni.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Key tagondu banni. Reach aadmele call madi.
 
 ## Quiz Answers
 
-1. Bring the key.
+1. Key tagondu banni.
 2. Photo kalisi.
-3. Key tagondu banni.
-4. Sari.
+3. Problem heli.
+4. Bill tagondu banni.
 
 ## Natural Bangalore Versions
 

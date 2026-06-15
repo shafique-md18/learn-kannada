@@ -339,15 +339,29 @@ Examples:
 
 ## Past Events
 
-Patterns will be added here as lessons are generated.
+- Naan ___ ge hode = I went to ___
+- Naan ___ bande = I came to/from ___
+- Idannu konde = I bought this
+- Idannu togonde = I took this
+- Naan call/message madide = I called/messaged
+- En aaytu? = What happened?
+- Reason + adakke + result
 
 ## Problems And Requests
 
-Patterns will be added here as lessons are generated.
+- ___ agalla = ___ does not work/happen
+- ___ illa = no ___
+- Object + check/fix/repair madi
+- Person + kalisi = send person
+- ___ tagondu banni = bring ___
 
 ## Social Conversation
 
-Patterns will be added here as lessons are generated.
+- Nanage ___ ishta = I like ___
+- Nimge yaavdu ishta? = Which one do you like?
+- ___ hege ide? = How is ___?
+- ___ ge hogona? = Shall we go for ___?
+- Kannada alli matadona = Let us speak in Kannada
 
 
 ## Lessons 025-072 Pattern Bank
@@ -377,8 +391,8 @@ Patterns will be added here as lessons are generated.
 
 ### Past
 
-- Naan ___ hogidde = I went to ___
-- Object + kondide = bought object
+- Naan ___ ge hode = I went to ___
+- Object + konde = I bought object
 - Naan call/message madide = I called/messaged
 - En aaytu? = What happened?
 - Reason + adakke + result

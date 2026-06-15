@@ -11,8 +11,8 @@
 
 1. Technician kalisi.
 2. Plumber beku.
-3. Technician kalisi.
-4. Sari.
+3. Electrician kalisi.
+4. Slot ideya?
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Electrician kalisi. Yaavaga barthira?
 
 ## Quiz Answers
 
-1. Send a technician.
+1. Technician kalisi.
 2. Plumber beku.
-3. Technician kalisi.
-4. Sari.
+3. Electrician kalisi.
+4. Slot ideya?
 
 ## Natural Bangalore Versions
 

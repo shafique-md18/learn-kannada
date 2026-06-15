@@ -11,8 +11,8 @@
 
 1. Bathroom leak aagide.
 2. Pipe check madi.
-3. Bathroom leak aagide.
-4. Sari.
+3. Plumber kalisi.
+4. Immediate barbeku.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Bathroom leak aagide. Plumber kalisi. Immediate barbeku.
 
 ## Quiz Answers
 
-1. Bathroom is leaking.
+1. Bathroom leak aagide.
 2. Pipe check madi.
-3. Bathroom leak aagide.
-4. Sari.
+3. Plumber kalisi.
+4. Immediate barbeku.
 
 ## Natural Bangalore Versions
 

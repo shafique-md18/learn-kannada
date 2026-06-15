@@ -11,8 +11,8 @@
 
 1. Wrong address ge hogide.
 2. Correct address kalisi.
-3. Wrong address ge hogide.
-4. Sari.
+3. Agent call madide.
+4. Reschedule madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Order wrong address ge hogide. Reschedule madi.
 
 ## Quiz Answers
 
-1. Order went to wrong address.
+1. Wrong address ge hogide.
 2. Correct address kalisi.
-3. Wrong address ge hogide.
-4. Sari.
+3. Agent call madide.
+4. Reschedule madi.
 
 ## Natural Bangalore Versions
 

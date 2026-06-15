@@ -11,8 +11,8 @@
 
 1. Yaavaga barthira?
 2. Iga banni.
-3. Yaavaga barthira?
-4. Sari.
+3. Amele madthini.
+4. Munche call madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Yaavaga barthira? Baro munche call madi.
 
 ## Quiz Answers
 
-1. When will you come?
+1. Yaavaga barthira?
 2. Iga banni.
-3. Yaavaga barthira?
-4. Sari.
+3. Amele madthini.
+4. Munche call madi.
 
 ## Natural Bangalore Versions
 

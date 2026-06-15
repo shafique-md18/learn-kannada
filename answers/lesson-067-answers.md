@@ -11,8 +11,8 @@
 
 1. Koramangala hogbeku.
 2. Meter only.
-3. Koramangala hogbeku.
-4. Sari.
+3. Signal alli left.
+4. Gate alli drop madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Koramangala hogbeku. Meter only. Signal alli left. Gate alli drop madi.
 
 ## Quiz Answers
 
-1. Need to go to Koramangala.
+1. Koramangala hogbeku.
 2. Meter only.
-3. Koramangala hogbeku.
-4. Sari.
+3. Signal alli left.
+4. Gate alli drop madi.
 
 ## Natural Bangalore Versions
 

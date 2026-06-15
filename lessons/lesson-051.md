@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Coffee chennagide.
+2. Idu chennagilla.
+3. Ruchi chennagide.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: This is easy.
+2. Change the place/person/item and say: Kannada is a little difficult.
+3. Use as the next line in a short conversation: Understood.
+4. Combine old knowledge with today: Tell slowly.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,10 +83,10 @@ Tell someone you did not understand and ask them to speak slowly.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: This is easy.
+2. Say: Kannada is a little difficult.
+3. Say: Understood.
+4. Say: Tell slowly.
 
 ## Add These To Your Notes
 
@@ -95,4 +95,3 @@ Add:
 - ___ sulabha/kashta = core pattern
 - Kannada swalpa kashta.
 - Idu sulabha.
-- Kannada swalpa kashta.

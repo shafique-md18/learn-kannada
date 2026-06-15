@@ -4,9 +4,9 @@
 
 Say in Kannada:
 
-1. Use one old question pattern.
-2. Use one old request pattern.
-3. Use one old location or time pattern.
+1. Gotha.
+2. Gothilla.
+3. Beda bidi.
 
 ## New Words
 
@@ -72,10 +72,10 @@ Build these in Kannada:
 
 Say these in Kannada:
 
-1. Use the main pattern in a real Bangalore situation.
-2. Change the person/place/time and say it again.
-3. Ask one follow-up question.
-4. Give one natural short reply.
+1. In a real Bangalore situation: Say one more time.
+2. Change the place/person/item and say: Repeat.
+3. Use as the next line in a short conversation: Say clearly.
+4. Combine old knowledge with today: Cannot hear.
 
 ## Real-Life Bangalore Roleplay
 
@@ -83,16 +83,15 @@ On a noisy call, ask the delivery agent to repeat clearly.
 
 ## Quiz
 
-1. Translate the main sentence.
-2. Use the main pattern with a new word.
-3. Ask one related question.
-4. Give one short natural response.
+1. Say: Say one more time.
+2. Say: Repeat.
+3. Say: Say clearly.
+4. Say: Cannot hear.
 
 ## Add These To Your Notes
 
 Add:
 
 - Request clarification = core pattern
-- Innondu sala heli.
 - Innondu sala heli.
 - Repeat madi.

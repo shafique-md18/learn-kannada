@@ -11,8 +11,8 @@
 
 1. Current illa.
 2. Water supply illa.
-3. Current illa.
-4. Sari.
+3. Internet work agalla.
+4. Switch check madi.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Water supply illa. Please check madi.
 
 ## Quiz Answers
 
-1. Internet is not working.
+1. Current illa.
 2. Water supply illa.
-3. Current illa.
-4. Sari.
+3. Internet work agalla.
+4. Switch check madi.
 
 ## Natural Bangalore Versions
 

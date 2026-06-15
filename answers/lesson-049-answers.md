@@ -11,8 +11,8 @@
 
 1. Nanage coffee ishta.
 2. Nanage tea ishta illa.
-3. Nanage coffee ishta.
-4. Sari.
+3. Tumba ishta.
+4. Food ishta.
 
 ## Roleplay Sample
 
@@ -20,10 +20,10 @@ Nanage coffee ishta. Tea ishta illa.
 
 ## Quiz Answers
 
-1. I like coffee.
+1. Nanage coffee ishta.
 2. Nanage tea ishta illa.
-3. Nanage coffee ishta.
-4. Sari.
+3. Tumba ishta.
+4. Food ishta.
 
 ## Natural Bangalore Versions
 
